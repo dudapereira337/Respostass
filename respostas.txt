@@ -1,0 +1,53 @@
+prova de versionamento 
+
+3. O que é uma branch? Dê um exemplo.
+É um local onde vai estar tudo oque vc fez.
+
+
+4.O que acontece quando usamos o git add.? Justifique.
+Ele adiciona todos os arquivos que estão na pasta.
+
+
+5.O que ocorre em um conflito? Dê um exemplo.
+Acontece uma alteração em uma das branchs,oque dá um erro. 
+EX:
+MASTER\DEVELOPER
+Arroz  Arroz >>>commit
+Feijão Feijão >>>commit
+Batata Beterraba >>>commit
+O ultimo commit teve uma alteção,então teve um conflito e colidiu para um erro.
+
+
+7. Explique a diferença entre git commit, git push e git pull, destacando o papel de cada um no fluxo de trabalho.
+Git commit salva o que você está fazendo e prepara o arquivo para ser enviado.
+Git push vai empurrar todas as suas respostas/alterações/seja o que for no seu arquivo local para um em nuvem.
+Git pull puxa as alterações do git hub pra vc.
+
+
+9. O que acontece ao executar git status?
+Vai aparecer os status.
+
+
+13. O que é uma hash? Dê um exemplo.
+Hash é o identificador unico do seu repositorío.
+Ex:h6j57dh
+
+
+14. Analisando a imagem 01, responda: O que o erro indica? Como resolver?
+A 1 inidica um conflito. A gente resolve manualmente decidindo o trecho que fica e trecho que sai.
+
+
+15. Analisando a imagem 01, responda: o que representa a seção HEAD?
+Seção HEAD indica a cabeça.
+
+
+19. Analisando a imagem 02, responda: o que a mensagem representa?
+Tudo certo para enviar.
+
+
+20. Analisando a imagem 03, responda: o que a mensagem representa?
+Nada para comitar, area de trabalho limpa.
+
+
+
+
