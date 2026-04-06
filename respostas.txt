@@ -28,6 +28,13 @@ Git pull puxa as alterações do git hub pra vc.
 Vai aparecer os status.
 
 
+11. O que o comando git add nome do arquivo.extensão faz?
+Vai adicionar o conteudo do arquivo.
+
+
+12.Qual comando cria uma branch sem trocar para ela?
+Git branch "nome da branch"
+
 13. O que é uma hash? Dê um exemplo.
 Hash é o identificador unico do seu repositorío.
 Ex:h6j57dh
@@ -51,3 +58,4 @@ Nada para comitar, area de trabalho limpa.
 
 
 
+continuando a prova
